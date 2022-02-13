@@ -1,6 +1,6 @@
 # Portfolio
 
-Website features [show me](bro-daa.github.io/portfolio/):
+Website features [(show me)](bro-daa.github.io/portfolio/):
   - BEM Methodology;
   - HTML Responsive Web Design;
   - Ready to CMS;
