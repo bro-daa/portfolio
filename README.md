@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Website features:
   - BEM Methodology;
